@@ -1,0 +1,3 @@
+This program was written by Cori Calabi, ccalabi@ucsc.edu, with words.l, hash.h, ll.h, and aes.h/aes.c written or provided by Darrell Long.
+This program supports make, make all, and make banhammer, as well as make clean.
+It can be run with ./banhammer < ~darrell/file.txt  (if using one of the example texts)
