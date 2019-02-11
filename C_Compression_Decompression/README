@@ -1,0 +1,10 @@
+This program includes both an encoder and a decoder that compress an inputted file using a bit vector, stack, queue, and Huffman tree.
+To run the program, use make or make all to compile both the encoder and decoder.  to compiled just one of them, use make encode or make decode.
+The program includes the files huffman.c, huffman.h, bitV.c, bitV.h, encode.c, encode.h, decode.c, 
+queue.c, queue.h,code.h, stack.c, stack.h, is.c, and is.h.
+The .h files were provided and written by Darrell Long, with some minor additions and changes that are noted.
+The encoder was written by me, Cori Calabi, and the decoder by Ryan Hamamoto.
+Parts of each file were written by both of us, and are noted.
+If anything bad goes wrong with the encoder, I take responsibility, there might be a couple weird bugs
+On the flip side, if anything goes wrong with decode, I did not have much, if anything, to do with that.
+I'd say we split the work evenly, for the most part.  There were some weird things happening in encode and Ryan helped me figure them out, so if anything he might have worked a little more.
